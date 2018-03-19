@@ -1,0 +1,5 @@
+church
+door
+gate
+house
+wall

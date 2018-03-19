@@ -1,0 +1,6 @@
+crown
+dagger
+pearl
+rock
+stone
+sword

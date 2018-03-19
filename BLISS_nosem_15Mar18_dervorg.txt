@@ -1,0 +1,100 @@
+<Art12> <AdjP> <N12> <Vi12>
+<N12> <Vi12>
+<Art11> <N11> <Vt11> <Art11> <N11>
+<Art11> <N11> <Vi11>
+<Art11> <N11> <Neg11> <Vt12> <PropN11>
+<N12> <Vi12>
+<Art11> <N11> <Vi11>
+<Art12> <AdjP> <N12> <Vi12> <PrepV> <Art11> <N11> <Prep> <Art11> <N11>
+<Art11> <N11> <Vi11> <PrepV> <Art11> <N11>
+<N12> <Vtdtv12> <PropN11> <PrepT> <Art11> <N11> <Prep> <PropN11>
+<Art11> <N11> <Prep> <Art11> <N11> <Vi11>
+<N12> <Vt12> <N12>
+<PropN11> <Vi11>
+<N12> <Prep> <Art11> <AdjP> <N11> <Vt12> <Art11> <N11>
+<Art11> <N11> <Prep> <PropN11> <Vtdtv11> <PropN11> <PrepT> <N12>
+<PropN11> <Vi11>
+<Art12> <N12> <Prep> <Art11> <N11> <Vt12> <PropN11>
+<N12> <Neg12> <Vt12> <PropN11>
+<Art11> <N11> <Vtd11> <Conjd> <N12> <Vi12>
+<PropN11> <Vt11> <PropN11>
+<AdjP> <N12> <Vt12> <Art11> <N11> <Prep> <Art11> <N11>
+<N12> <Vt12> <PropN11>
+<Art11> <N11> <Neg11> <Vi12> <PrepV> <PropN11>
+<N12> <Prep> <PropN11> <Vi12>
+<Art12> <N12> <Vt12> <Art11> <N11>
+<N12> <Vi12> <PrepV> <Art11> <N11>
+<PropN11> <Neg11> <Vtdtv12> <PropN11> <PrepT> <AdjP> <N12>
+<Art11> <N11> <Prep> <N12> <Prep> <PropN11> <Vi11>
+<AdjP> <N12> <Vi12>
+<Art11> <AdjP> <N11> <Vt11> <Art11> <N11>
+<Art12> <N12> <Vi12> <PrepV> <Art11> <N11>
+<AdjP> <N12> <Vi12>
+<AdjP> <N12> <Vi12>
+<Art11> <N11> <Prep> <PropN11> <Vi11>
+<Art12> <N12> <Neg12> <Vt12> <PropN11>
+<Art11> <N11> <Neg11> <Vi12>
+<Art11> <AdjP> <N11> <Vtd11> <Conjd> <N12> <Vt12> <Art11> <N11>
+<PropN11> <Vt11> <PropN11>
+<N12> <Vi12>
+<AdjP> <N12> <Vt12> <Art11> <N11>
+<PropN11> <Vi11>
+<Dem11> <N11> <Prep> <Art11> <N11> <Prep> <PropN11> <Vtd11> <Conjd> <N12> <Vi12> <PrepV> <PropN11>
+<N12> <Prep> <PropN11> <Neg12> <Vi12> <PrepV> <AdjP> <N12>
+<PropN11> <Vi11>
+<Art11> <N11> <Neg11> <Vtdtv12> <AdjP> <N12> <PrepT> <Art11> <N11>
+<N12> <Vt12> <N12>
+<PropN11> <Neg11> <Vi12>
+<N12> <Vt12> <Art11> <N11>
+<Art11> <N11> <Neg11> <Vi12>
+<N12> <Vi12>
+<N12> <Neg12> <Vi12> <PrepV> <Art11> <N11>
+<PropN11> <Vt11> <PropN11>
+<PropN11> <Vt11> <Art11> <AdjP> <N11>
+<N12> <Prep> <Art11> <N11> <Vi12>
+<N12> <Prep> <PropN11> <Vi12> <PrepV> <PropN11>
+<N12> <Prep> <Art11> <N11> <Vi12>
+<N12> <Vt12> <Art11> <N11>
+<Art11> <N11> <Neg11> <Vi12> <PrepV> <PropN11>
+<Art11> <N11> <Vi11>
+<PropN11> <Vt11> <Art11> <N11>
+<Art11> <N11> <Neg11> <Vi12>
+<Art11> <AdjP> <N11> <Vi11> <PrepV> <Art11> <AdjP> <N11>
+<N12> <Vtdtv12> <Art11> <AdjP> <N11> <PrepT> <Art12> <N12>
+<PropN11> <Vi11>
+<Art11> <AdjP> <N11> <Vi11>
+<Art11> <N11> <Neg11> <Vtd12> <Conjd> <N12> <Vt12> <N12>
+<Art11> <N11> <Vt11> <Art11> <N11>
+<Art12> <N12> <Vi12> <PrepV> <PropN11>
+<N12> <Vtdtv12> <Art11> <N11> <PrepT> <Art11> <AdjP> <N11>
+<PropN11> <Vt11> <Art11> <N11> <Prep> <N12>
+<PropN11> <Vt11> <N12> <Prep> <PropN11>
+<Art12> <N12> <Vi12>
+<N12> <Vt12> <Art11> <AdjP> <N11>
+<N12> <Vt12> <Art11> <AdjP> <N11>
+<PropN11> <Vi11>
+<PropN12> <Vi12>
+<PropN11> <Vi11>
+<N12> <Vi12>
+<Art11> <N11> <Prep> <N12> <Vt11> <PropN11>
+<PropN11> <Vi11> <PrepV> <N12> <Prep> <Art11> <AdjP> <N11>
+<N12> <Vi12>
+<PropN11> <Vt11> <Art11> <N11> <Prep> <Art11> <N11>
+<Art11> <N11> <Prep> <PropN11> <Vtd11> <Conjd> <Art11> <N11> <Vt11> <Art11> <AdjP> <N11>
+<AdjP> <N12> <Vtdtv12> <Art11> <N11> <PrepT> <Art11> <N11> <Prep> <PropN11>
+<Art12> <AdjP> <N12> <Vi12>
+<Art11> <N11> <Vtdtv11> <N12> <PrepT> <N12>
+<PropN11> <Vi11>
+<N12> <Vtdtv12> <PropN11> <PrepT> <Art11> <N11>
+<PropN11> <Vi11> <PrepV> <Art11> <N11>
+<AdjP> <N12> <Vt12> <Art11> <N11>
+<N12> <Neg12> <Vi12>
+<Art11> <N11> <Neg11> <Vi12>
+<N12> <Vt12> <Art11> <N11>
+<PropN11> <Vt11> <PropN11>
+<PropN11> <Vi11>
+<Art12> <N12> <Prep> <Art11> <N11> <Neg12> <Vtd12> <Conjd> <N12> <Prep> <N12> <Vi12> <PrepV> <PropN11>
+<Art12> <N12> <Vi12> <PrepV> <PropN11>
+<N12> <Prep> <PropN11> <Vi12>
+<Art11> <N11> <Prep> <Art11> <N11> <Vt11> <Art11> <N11> <Prep> <Art11> <N11> <Prep> <PropN11>
+<Dem11> <N11> <Prep> <Art11> <N11> <Neg11> <Vi12>

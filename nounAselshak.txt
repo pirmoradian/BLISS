@@ -1,0 +1,7 @@
+calf
+deer
+dog
+dove
+horse
+sheep
+worm
