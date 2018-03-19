@@ -35,7 +35,6 @@ Auxiliary files that pybliss.py uses for sentence generation:
 
 ```
 python pybliss.py
-
 ```
 
 Then, you find the generated sentences stored in FILE_NAME with txt format in the current directory.
@@ -46,11 +45,11 @@ This package is developed by [Sahar Pirmoradian](https://www.researchgate.net/pr
  
 ## Citation
 
-If you use this code please cite the corresponding paper where BLISS was introduced:
+If you use this code, please cite the corresponding paper where BLISS was introduced:
 
 S. Pirmoradian, A. Treves, “BLISS: an artificial language for learnability studies”, Journal of Cognitive Computation 3:539—553, 2011
 
 ## Acknowledgments
 
-* This project was done under supervision of Prof. Alessandro Treves, in SISSA, Trieste, Italy.
+* This project was done under the supervision of Prof. Alessandro Treves, in SISSA, Trieste, Italy.
 
