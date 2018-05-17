@@ -49,7 +49,7 @@ If you use this code, please cite the corresponding paper where BLISS was introd
 
 S. Pirmoradian, A. Treves, “BLISS: an artificial language for learnability studies”, Journal of Cognitive Computation 3:539—553, 2011
 
-For getting a broader picture about the project, and how this artificial language could be used, please see [my PhD Thesis](https://github.com/pirmoradian/BLISS/blob/master/SaharPirmoradian-Thesis.pdf), where I used the BLISS language as the training language of an associative memory network.
+For getting a broader picture about the project, and how this artificial language could be used, please see [my PhD Thesis](https://github.com/pirmoradian/BLISS/blob/master/Thesis/SaharPirmoradian-Thesis.pdf), where I used the BLISS language as the training language of an associative memory network.
 
 ## Acknowledgments
 
