@@ -1,6 +1,6 @@
 # BLISS
 
-An artificial language incorporating both syntax and semantics. This code was used to generate results of [our publication](https://www.researchgate.net/publication/317643433_BLISS_an_Artificial_Language_for_Learnability_Studies) on constructing an artitifical language of intermediate complexity, which is suitable for language learning in neural networks. BLISS mimics natural languages by having a vocabulary of ~150 words, a context-free grammar, and some semantics, as defined by a degree of non-syntactic statistical dependence between words. 
+An artificial language incorporating both syntax and semantics. This code was used to generate results of [our publication](https://github.com/pirmoradian/BLISS/blob/master/Pirmoradian%2C%20Treves%20-%202011%20-%20Cognitive%20Computation.pdf) on constructing an artitifical language of intermediate complexity, which is suitable for language learning in neural networks. BLISS mimics natural languages by having a vocabulary of ~150 words, a context-free grammar, and some semantics, as defined by a degree of non-syntactic statistical dependence between words. 
 
 
 ## Code description
@@ -22,39 +22,36 @@ Auxiliary files that pybliss.py uses for sentence generation:
 
 1. Set the parameters in the constant file, cnstpybliss.py: 
 
-   - FILE_NAME: the prefix for the name of the output files
-   - GRAMMAR_FILE: the grammar file name
-   - JNTPROB_FILE: the joint-frequency file name
-   - UNIGRAMPROB_FILE: the word-frequency file name
-   - WORDROOTS_FILE: the root of words
-   - NUM_OF_SENTENCES: Number of sentences to be generated
-   - PRINT_SENT_No: Print on the terminal after these number of sentences were generated
-   - SELECTION_ALGORITHM: select the language model out of ALL_ALGORITHMS, which are different language models described in [our paper](https://www.researchgate.net/publication/317643433_BLISS_an_Artificial_Language_for_Learnability_Studies)
+- FILE_NAME: the prefix for the name of the output files
+- GRAMMAR_FILE: the grammar file name
+- JNTPROB_FILE: the joint-frequency file name
+- UNIGRAMPROB_FILE: the word-frequency file name
+- WORDROOTS_FILE: the root of words
+- NUM_OF_SENTENCES: Number of sentences to be generated
+- PRINT_SENT_No: Print on the terminal after these number of sentences were generated
+- SELECTION_ALGORITHM: select the language model out of ALL_ALGORITHMS, which are different language models described in [our paper](https://github.com/pirmoradian/BLISS/blob/master/Pirmoradian%2C%20Treves%20-%202011%20-%20Cognitive%20Computation.pdf)
 
 2. Run the main python file: 
 
 ```
 python pybliss.py
-
 ```
 
 Then, you find the generated sentences stored in FILE_NAME with txt format in the current directory.
 
-# Developer
+## Developer
 
 This package is developed by [Sahar Pirmoradian](https://www.researchgate.net/profile/Sahar_Pirmoradian). If you need help or have questions, don't hesitate to get in touch.
- 
-# Citation
 
-If you use this code please cite the corresponding paper where BLISS was introduced:
+## Citation
 
-[1]	S. Pirmoradian, A. Treves, “BLISS: an artificial language for learnability studies”, Journal of Cognitive Computation 3:539—553, 2011
+If you use this code, please cite the corresponding paper where BLISS was introduced:
 
-# License
+S. Pirmoradian, A. Treves, “BLISS: an artificial language for learnability studies”, Journal of Cognitive Computation 3:539—553, 2011
 
-This program is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation
+For getting a broader picture about the project, and how this artificial language could be used, please see [my PhD Thesis](https://github.com/pirmoradian/BLISS/blob/master/SaharPirmoradian-Thesis.pdf), where I used the BLISS language as the training language of an associative memory network.
 
-### Acknowledgments
+## Acknowledgments
 
-* This project was done under supervision of Prof. Treves, Trieste, Italy.
+* This project was done under the supervision of Prof. Alessandro Treves, in SISSA, Trieste, Italy.
 
